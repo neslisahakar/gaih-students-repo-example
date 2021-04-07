@@ -15,7 +15,7 @@ print(A)
 	
 #Question 2:ask the user to input a single digit integer to a variable 'n'. Then, print out all of the even numbers from 0 to n (including n).
 n = int(input("Please input a single digit integer:  "))
-if n > 10:
+if n > 9:
     print ("Only single digit allowed!")
 else:
   for num in range(0, n + 1):
