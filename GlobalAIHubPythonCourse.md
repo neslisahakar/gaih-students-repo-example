@@ -1,5 +1,5 @@
 # GlobalAIHubPythonCourse
-![](img/newlogo.png)
+![](newlogo.png)
 
 **Course Date:** 05.04.2021  
 **Name:** Neslişah  
